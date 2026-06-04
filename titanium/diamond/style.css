@@ -1,6 +1,17 @@
-.body{
+body{
   background-image: linear-gradient(to right, #6D4AFF,#111827);
   font-family: Arvo, monospace;
   font-size: 14px;
   color: white;
+}
+.bar{
+  background-color: #6D4AFF99;
+  font-family: Inter, sans-serif;
+  border-radius:15px;
+  border-color:#11182799;
+  display:flex;
+  height:30px;
+}
+#logo{
+  background-color:111827FF;
 }
