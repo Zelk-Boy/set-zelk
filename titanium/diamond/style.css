@@ -4,6 +4,10 @@ body{
   font-size: 14px;
   color: white;
 }
+a{
+    color: white;
+    text-decoration: none;
+}
 .bar{
   background-color: #6D4AFF99;
   font-family: Inter, sans-serif;
