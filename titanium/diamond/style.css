@@ -9,7 +9,7 @@ a{
     text-decoration: none;
 }
 .bar{
-  background-color: #7f4fFf99;
+  background-image: linear-gradient(to left, #6D4AFF,#111827);
   font-family: Inter, sans-serif;
   border-radius:15px;
   border-color:#11182799;
