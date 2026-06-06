@@ -28,6 +28,7 @@ section p{
 .banner{
     text-align:center;
     padding:100px 20px;
+    width: 200px;
 }
 
 .banner h1{
