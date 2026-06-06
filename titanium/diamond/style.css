@@ -1,7 +1,20 @@
+.banner{
+    text-align:center;
+    padding:100px 20px;
+}
 
-h1 h2 h3 h4 h5 h6 h7{
-  display:flex;
-  align-itmes:center;
+.banner h1{
+    font-size:4rem;
+    margin-bottom:20px;
+}
+
+.bannerText{
+    max-width:700px;
+    margin:auto;
+    font-size:1.3rem;
+}
+h1, h2, h3, h4, h5, h6{
+    text-align:center;
 }
 body{
   background-image: linear-gradient(to right, #6D4AFF,#111827);
@@ -22,11 +35,11 @@ a{
   height:30px;
 }
 #logo{
-  background-color:111827FF;
+  background-color:#111827;
 }
 .barButton{
   margin:10px;
 }
-p{
+
   margin: 5px;
   color: #FFFFF0;
