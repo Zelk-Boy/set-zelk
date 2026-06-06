@@ -27,12 +27,19 @@ a{
     text-decoration: none;
 }
 .bar{
-  background-image: linear-gradient(to left, #6D4AFF,#111827);
-  font-family: Inter, sans-serif;
-  border-radius:15px;
-  border-color:#11182799;
-  display:flex;
-  height:30px;
+    display:flex;
+    align-items:center;
+    padding:15px 25px;
+    border-radius:15px;
+}
+
+#logo img{
+    height:50px;
+}
+
+.barButton{
+    margin-left:20px;
+    font-size:1.1rem;
 }
 #logo{
   background-color:#111827;
@@ -40,6 +47,8 @@ a{
 .barButton{
   margin:10px;
 }
-
+p{
   margin: 5px;
   color: #FFFFF0;
+}
+    
