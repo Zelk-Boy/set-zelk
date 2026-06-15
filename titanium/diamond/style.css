@@ -28,7 +28,7 @@ section p{
 .banner{
     text-align:center;
     padding:100px 20px;
-    width: 200px;
+    width:100%;
 }
 
 .banner h1{
@@ -45,11 +45,12 @@ h1, h2, h3, h4, h5, h6{
     text-align:center;
 }
 body{
-  background-image: linear-gradient(270deg, #6D4AFF,#111827);
-  font-family: Arvo, monospace;
-  font-size: 14px;
-  color: white;
+    margin:0;
+    background-image:linear-gradient(270deg,#6D4AFF,#111827);
+    color:white;
+    font-family:Arvo, monospace;
 }
+
 a{
     color: white;
     text-decoration: none;
@@ -57,33 +58,33 @@ a{
 .bar{
     display:flex;
     align-items:center;
-    padding:15px 25px;
+    justify-content:center;
+    gap:30px;
+
+    padding:20px;
+
+    background:#111827;
     border-radius:15px;
 }
-
-#logo{
-  display:flex;
-  align-items:center;
-    width:30px;
-  height:auto;
+#logo img{
+    width:80px;
+    height:auto;
 }
 
-.barButton{
-    margin-left:20px;
+..barButton{
+    margin:10px;
     font-size:1.1rem;
 }
 #logo{
   background-color:#111827;
 }
-.barButton{
-  margin:10px;
-}
+
 p{
   margin: 5px;
   color: #FFFFF0;
 }
     
-#banner{
+#banner img{
     width:100%;
     height: auto;
     display:block;
