@@ -1,0 +1,10 @@
+body{
+  background-image: conic-gradient(
+    from 0deg,
+    #6d4aff 0deg,
+    #00f5d4 120deg,
+    #64748b 240deg,
+    #1e1b4b 300deg,
+    #6d4aff 360deg
+  );
+}
