@@ -1,13 +1,15 @@
-body{
-  background-image: conic-gradient(
-    from 0deg,
-    #6d4aff 0deg,
-    #00f5d4 120deg,
-    #64748b 240deg,
-    #1e1b4b 300deg,
-    #6d4aff 360deg
-  );
-  color: #ffffff;
-  text-shadow: 0 1px 3px rgba(15, 23, 42, 0.6);
-}
+html, body {
+  min-height: 100vh;
+  margin: 0;
 
+  background: conic-gradient(
+    from 0deg at center,
+    #6d4aff,
+    #00f5d4,
+    #64748b,
+    #1e1b4b,
+    #6d4aff
+  );
+
+  color: white;
+}
