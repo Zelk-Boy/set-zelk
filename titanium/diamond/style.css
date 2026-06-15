@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6{
     text-align:center;
 }
 body{
-  background-image: linear-gradient(from top left, #6D4AFF,#111827);
+  background-image: linear-gradient(270deg, #6D4AFF,#111827);
   font-family: Arvo, monospace;
   font-size: 14px;
   color: white;
