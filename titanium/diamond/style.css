@@ -90,6 +90,16 @@ p{
     display:block;
 }
 
-
-
+.cardProject{
+    border-radius:150px;
+}
+#cardProjectOne{
+    background-color:#6D4AFF;
+}
+#cardProjectTwo{
+    background-color: #111827;
+}
+#cardProjectThree{
+    background-color: #6D4AFF;
+}    
 
