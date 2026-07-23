@@ -113,4 +113,7 @@ p{
 #cardProjectThree{
     background-color: #6D4AFF;
 }    
-
+.projectContainer{
+    display:flex;
+    gap:25px;
+}
