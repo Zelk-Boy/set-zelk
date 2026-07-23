@@ -1,8 +1,5 @@
 let test = "test";
-function functionOne(fatman){
-    alert fatman+"IS a browser, unless it is/'nt"
-}
-functionOne
+
 console.log(test);
 let fatman = prompt("please enter your browser name.");
 
@@ -38,7 +35,9 @@ else if(fatman === 'fireFox'){
     alert( 'Okay we support these browsers too' );
 }
 else{
-    alert('We hope that this page looks ok!');
+    alert( 'We hope this page looks okay!');
 }
 
+    
+   
 
