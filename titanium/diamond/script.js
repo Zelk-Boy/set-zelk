@@ -1,8 +1,8 @@
 let test = "test";
-function functionOne(Fatman){
+function functionOne(fatman){
     alert fatman+"IS a browser, unless it is/'nt"
 }
-
+functionOne
 console.log(test);
 let fatman = prompt("please enter your browser name.");
 
