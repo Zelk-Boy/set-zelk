@@ -95,9 +95,13 @@ p{
 }
 #cardProjectOne{
     background-color:#6D4AFF;
+    border-width: 5px;
+    border-color: #111827;
 }
 #cardProjectTwo{
     background-color: #111827;
+    border-width: 5px;
+    border-color:#6D4AFF ;
 }
 .cardProject{
     background:#1f2937;
@@ -112,6 +116,8 @@ p{
 }
 #cardProjectThree{
     background-color: #6D4AFF;
+    border-width: 5px;
+    border-color: #111827;
 }    
 .projectContainer{
     display:flex;
