@@ -71,7 +71,7 @@ a{
     height:auto;
 }
 
-..barButton{
+.barButton{
     margin:10px;
     font-size:1.1rem;
 }
@@ -98,6 +98,17 @@ p{
 }
 #cardProjectTwo{
     background-color: #111827;
+}
+.cardProject{
+    background:#1f2937;
+    padding:30px;
+    border-radius:20px;
+    margin:25px 0;
+
+    transition:.3s;
+}
+.cardProject:hover{
+    transform:translateY(-8px);
 }
 #cardProjectThree{
     background-color: #6D4AFF;
